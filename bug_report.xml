@@ -1,1 +1,11 @@
+<User>
+  <first login>false</first login>
+  <id>123</id>
+  <email>user_city@user.com</email>
+  <first name>user</first name>
+  <last name>city</last name>
+</User>
+
+<Expected attribute>location name,location id</expected attribute>
+  
 
