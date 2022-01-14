@@ -1,4 +1,7 @@
-<name>Chebotareva E.P.</name>
-<years>29</years>
-<animals>no</animals>[D[D[D[D[D[D[D[D[D[D animals[C</animals>
-<salary>800-1000</salary>
+<?xml version="1.0" encoding="UTF-8"  ?>
+<root>
+  <name>Chebotareva E.P.</name>
+  <age>29</age>
+  <pets>0</pets>
+  <salary>800-1000</salary>
+</root>
