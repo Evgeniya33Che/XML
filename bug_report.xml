@@ -1,11 +1,20 @@
-<User>
-  <first login>false</first login>
+<?xml version="1.0" encoding="UTF-8"  ?>
+<root>
+<Title>
+  <first_login>the_user_cannot_register_a_login</first_login>
   <id>123</id>
   <email>user_city@user.com</email>
-  <first name>user</first name>
-  <last name>city</last name>
-</User>
-
-<Expected attribute>location name,location id</expected attribute>
-  
-
+  <first_name>user</first_name>
+  <last_name>city</last_name>
+</Title>
+  <status>new</status>
+  <Author>Chebotareva E.P.</Author>
+  <Assigned_to>Ivanov I.I.</Assigned_to>
+ <Description>
+<step1>go_to_the_website</step1>
+<step2>chek_filling_of_the_lines</step2>
+<actual_result>the_login_is_saved_in_the_line_but_gives_an_error</actual_result>
+<expected_result>the_login_is_saved_in_the_line_and_is_registered</expected_result>
+ </Description>
+<attachment>video</attachment>
+</root>
