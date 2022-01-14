@@ -1,6 +1,9 @@
-<favorite movie>Batmavorite movie>
-<TV series[D[D[D[D[D[Dtv[C[C[C[C[C[C[C>Witcher<tv series[D[D[D[D[D[D[D[D[D[D[C/tv series>
-<food>fried potato</food>
-<time of year>spring</time of year>
-<country to visit>USA</country to visit>
+<?xml version="1.0" encoding="UTF-8"  ?>
+<root>
+  <favorite_movie>Batman</favorite_movie>
+  <tv_series>Witcher</tv_series>
+  <food>fried potato</food>
+  <time_of_year>spring</time_of_year>
+  <country_to_visit>USA</country_to_visit>
+</root>
 
