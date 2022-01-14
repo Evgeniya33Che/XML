@@ -1,8 +1,9 @@
-<skils>
-<skil>SDLC</skil>
-<skil>SQL</skil>
-<skil>Piton<skil[D[D[D[D/skil>
-<skil>Linux</skil>
-<skil>Dev Tools</skil>
-</skils>
+<?xml version="1.0" encoding="UTF-8"  ?>
+<root>
+  <skil>SDLC</skil>
+  <skil>SQL</skil>
+  <skil>Piton</skil>
+  <skil>Linux</skil>
+  <skil>Dev Tools</skil>
+</root>
 
